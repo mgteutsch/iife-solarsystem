@@ -12,7 +12,7 @@ In your Terminal, run the following:
 ```
 http-server -p 9999
 ```
-Then, navigate to http:///localhost:9999 in your browser.
+and navigate to http:///localhost:9999 in your browser.
 
 ## Contributors
 - [Mike Teutsch](https://github.com/mgteutsch)
